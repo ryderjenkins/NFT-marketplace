@@ -14,16 +14,6 @@ This is an open decentralized NFT Marketplace built with smart contracts powered
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### The repository
-
-First, you will need to `clone` or `fork` the repository into your Github account:
-
-<img src="https://docs.github.com/assets/images/help/repository/fork_button.jpg" alt="Fork on GitHub" width='450'>
-
-```
-$ git clone https://github.com/miquelTC/nft-marketplace.git
-```
-
 ### Installing
 
 First, you will need to install the dependencies with: `npm install`.
@@ -155,12 +145,3 @@ A user can buy those NFT which someone else offered. This will require paying th
 #### Claim Funds
 
 If a user sold an NFT, he can claim his funds by clicking the button in the top-right.
-
-## Resources
-
-- [ethereum.org](https://ethereum.org/)
-- [truffle suit](https://www.trufflesuite.com/)
-- [node.js](https://nodejs.org/)
-- [web3.js](https://web3js.readthedocs.io/)
-- [react.js](https://reactjs.org/)
-- [IPFS](https://ipfs.io/)
